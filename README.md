@@ -12,6 +12,8 @@ some trouble with classes, need more knowledge
 Show is not abstract class, rewrite on TS
 # trouble
 and lot of others
+# troble 
+with subcribe method, it is needed to rewrite
 # design
 it is needed to add html and css, simple design
 
